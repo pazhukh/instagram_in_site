@@ -1,3 +1,6 @@
+https://www.instagram.com/developer/endpoints/media/
+
+
 //якщо не працює вивід фотографій - перегенеровуємо $token http://instagram.pixelunion.net/
 $token = '637801490.1677ed0.c49612835e254809ac112d5361442ec7';
 /*
